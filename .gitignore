@@ -1,0 +1,7 @@
+model/
+train/
+test/
+*.h5
+*.pkl
+*.ipynb_checkpoints/
+__pycache__/
